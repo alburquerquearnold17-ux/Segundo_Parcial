@@ -1,4 +1,4 @@
-# S#include <iostream>
+# #include <iostream>
 #include <string>
 #include <limits>
 #include <iomanip>
@@ -40,5 +40,4 @@ int main(){
         else if(op!=1) cout<<"Opcion invalida o sin datos\n";
     }while(op!=6);
     return 0;
-}egundo_Parcial
-Desarrollé un sistema en C++ que registra estudiantes y sus calificaciones usando arreglos. Implementé funciones para calcular promedio, nota mayor, menor y mostrar aprobados. Organicé el programa con un menú interactivo y validación de entradas.
+}
