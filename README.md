@@ -41,3 +41,8 @@ int main(){
     }while(op!=6);
     return 0;
 }
+
+![IMG-20260321-WA0035(1)](https://github.com/user-attachments/assets/fd902b67-47e2-4a3c-9245-68572af592d5)
+
+![IMG-20260321-WA0036(1)](https://github.com/user-attachments/assets/3a9e52eb-c00c-4c6f-9a4c-f1d4cda7f798)
+
